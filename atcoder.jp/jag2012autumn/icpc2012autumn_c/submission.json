@@ -1,0 +1,12 @@
+{
+	"id": 10188040,
+	"epoch_second": 1581973030,
+	"problem_id": "icpc2012autumn_c",
+	"contest_id": "jag2012autumn",
+	"user_id": "nope124",
+	"language": "C++14 (GCC 5.4.1)",
+	"point": 100,
+	"length": 4262,
+	"result": "AC",
+	"execution_time": 34
+}

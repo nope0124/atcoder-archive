@@ -1,0 +1,12 @@
+{
+	"id": 17768244,
+	"epoch_second": 1604182345,
+	"problem_id": "rcl_contest_2020_qual_a",
+	"contest_id": "rcl-contest-2020-qual",
+	"user_id": "nope124",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 89763,
+	"length": 1711,
+	"result": "AC",
+	"execution_time": 11
+}
